@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 13 Pro",
+        "price": 12999,
+        "isOnSale": true,
+        "description": "Our smartest phone - got even smarter - seriously"
+    },
+    {
+        "id": 2,
+        "name": "Macbook Pro M1 Max",
+        "price": 24999,
+        "isOnSale": false,
+        "description": "120hz display - smooth as butter"
+    },
+    {
+        "id": 3,
+        "name": "Airpods Pro",
+        "price": 2229,
+        "isOnSale": false,
+        "description": "Crystal clear sound - Fully wireless"
+    }
+]
